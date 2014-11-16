@@ -1,0 +1,13 @@
+{
+  "name": "prepare-relay",
+  "description": "Simple push messaging from server to client using prepare.js",
+  "version": "0.0.1",
+  "author": {
+    "name": "Nardi Lam",
+    "email": "me@nardilam.nl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nardi/prepare-relay.git"
+  }
+}
